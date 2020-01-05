@@ -36,16 +36,17 @@ Jika ``k`` di input dan ``lower()`` digunakan untuk mengkonversi input yang dima
 
 **1. Input Data**
 Kondisi berikut digunakan untuk melakukan input data seperti Nama, NIM, Nilai Tugas, UTS dan UAS :
-`elif perintah.lower() == 't':
-	print("Masukan data mahasiswa")
-        print("...")
-        nama = input("Masukan nama: ")
-        nim = input("Masukan NIM: ")
-        n_tugas = int(input("Masukan nilai tugas: "))
-        n_UTS = int(input("Masukan nilai UTS: "))
-        n_UAS = int(input("Masukan nilai UAS: "))
-        a = n_tugas * 30 / 100
-        b = n_UTS * 35 / 100
-        c = n_UAS * 35 / 100
-        n_akhir = a + b + c
-        daftar[nama] = [nama, nim, n_tugas, n_UTS, n_UAS, n_akhir]
+
+		elif perintah.lower() == 't':
+			print("Masukan data mahasiswa")
+        		print("...")
+        		nama = input("Masukan nama: ")
+        		nim = input("Masukan NIM: ")
+        		n_tugas = int(input("Masukan nilai tugas: "))
+        		n_UTS = int(input("Masukan nilai UTS: "))
+        		n_UAS = int(input("Masukan nilai UAS: "))
+        		a = n_tugas * 30 / 100
+        		b = n_UTS * 35 / 100
+        		c = n_UAS * 35 / 100
+        		n_akhir = a + b + c
+        		daftar[nama] = [nama, nim, n_tugas, n_UTS, n_UAS, n_akhir]
