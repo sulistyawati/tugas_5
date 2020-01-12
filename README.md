@@ -58,10 +58,7 @@ Kondisi berikut digunakan untuk melakukan input data seperti Nama, NIM, Nilai Tu
 * 6. Melihat data
 Selanjutnya adalah kode yang digunakan untuk melihat input yang sudah dimasukan :
 
-
 ![lihat data](https://user-images.githubusercontent.com/57305570/72215244-4ed6c380-3543-11ea-9e21-88f74d770494.png)
-
-
 
 * Data dalam perulangan for di ambil dari variabel dictionary daftar pada bagian value yang berbentuk list. variabel no diguanakan untuk membuat nomor. Data yang akan ditampilkan adalah **Nama, NIM, Nilai Tugas, UTS, UAS, dan Nilai Akhir**.
 
@@ -83,7 +80,7 @@ Selanjutnya adalah kode yang digunakan untuk melihat input yang sudah dimasukan 
 
 ![8](https://user-images.githubusercontent.com/57305570/72215345-872ad180-3544-11ea-8082-31adf0c6aae0.png)
 
-** Output ** 
+**Output :** 
 
 ![cari](https://user-images.githubusercontent.com/57305570/72215359-bb9e8d80-3544-11ea-846a-66386e7f545c.png)
 
